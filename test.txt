@@ -1,1 +1,3 @@
 This .txt file will test if the SSH authentication worked.
+
+I updated the text on 7/16 to verify a new SSH key. 
